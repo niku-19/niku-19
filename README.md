@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on React js<br>👯 I’m looking to collaborate on best Web Developer<br>🌱 I’m currently learning React js<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:<br>👯 I’m looking to collaborate on best Web Developer<br>🌱 I’m currently learning React js<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
