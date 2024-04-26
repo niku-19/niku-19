@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Ranjan Kumar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Frontend Developer, Passionate about Creating Seamless User Experiences with Next Js, React Js⚡️. Keen interest in Next Js | React Js | Redux | Typescript | Javascript | Tailwind Css | CSS | HTML</h3>
 
 - 🔭 I’m currently working on **TRIOS Coworking co-app**
 
