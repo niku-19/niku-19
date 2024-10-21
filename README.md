@@ -1,4 +1,4 @@
-<img align="right" width='100%' height="70%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"  />
+<img align="right" width='100%' height="50%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"  />
 
 
 <h1 align="center">Hi 👋, I'm Nikhil Ranjan Kumar</h1>
